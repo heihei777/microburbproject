@@ -1,0 +1,30 @@
+# --- Python virtual environment ---
+venv/
+.env/
+.venv/
+
+# --- Python cache & compiled files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environment & dependency files ---
+.env
+*.env
+
+# --- IDE / editor settings ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS-specific files ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- Logs and temp files ---
+*.log
+*.tmp
